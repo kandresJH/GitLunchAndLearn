@@ -8,6 +8,7 @@ namespace GitLunchAndLearn
 {
    internal class Class8
    {
+      //Change from GitHub
       //Change from VS
    }
 }
